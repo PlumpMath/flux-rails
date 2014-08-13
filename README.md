@@ -1,4 +1,7 @@
-# Flux::Rails
+flux-rails
+==========
+
+A simple gem that wraps up Facebook's Flux dispatcher and the node events module.
 
 TODO: Write a gem description
 
@@ -28,7 +31,3 @@ TODO: Write usage instructions here
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 =======
-flux-rails
-==========
-
-A simple gem that wraps up Facebook's Flux dispatcher and the node events module.
