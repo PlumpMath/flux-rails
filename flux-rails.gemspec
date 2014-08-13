@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kurt Mueller"]
   spec.email         = ["kurtronaldmueller@gmail.com"]
   spec.summary       = %q{Flux dispatcher for the Ruby on Rails asset pipeline}
-  spec.description   = %q{Use facebook's dispatcher in your Rails project.}
+  spec.description   = %q{Use Facebook's dispatcher in your Rails project.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
@@ -20,4 +20,9 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
+
+  spec.add_dependency 'rails'
+  spec.add_dependency 'sprockets-commonjs'
+
+
 end
