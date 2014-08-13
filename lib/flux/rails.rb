@@ -1,4 +1,5 @@
 require "flux/rails/version"
+require 'flux/rails/engine'
 
 module Flux
   module Rails
