@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flux::Rails
 
 TODO: Write a gem description
@@ -33,4 +32,3 @@ flux-rails
 ==========
 
 A simple gem that wraps up Facebook's Flux dispatcher and the node events module.
->>>>>>> 2df3ecc70cb831a64d5b9d4f7e4b0844f9a8ec9b
